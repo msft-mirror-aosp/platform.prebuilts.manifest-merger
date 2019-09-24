@@ -3,10 +3,10 @@
   <groupId>com.android.tools.layoutlib</groupId>
   <artifactId>layoutlib-api</artifactId>
   <versioning>
-    <release>26.4.0-beta05</release>
+    <release>26.6.0-dev</release>
     <versions>
-      <version>26.4.0-beta05</version>
+      <version>26.6.0-dev</version>
     </versions>
-    <lastUpdated>20190227060235</lastUpdated>
+    <lastUpdated>20190810002713</lastUpdated>
   </versioning>
 </metadata>
