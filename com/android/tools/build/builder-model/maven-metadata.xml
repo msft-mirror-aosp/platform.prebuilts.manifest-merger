@@ -3,10 +3,10 @@
   <groupId>com.android.tools.build</groupId>
   <artifactId>builder-model</artifactId>
   <versioning>
-    <release>7.1.0-alpha06</release>
+    <release>3.6.0-dev</release>
     <versions>
-      <version>7.1.0-alpha06</version>
+      <version>3.6.0-dev</version>
     </versions>
-    <lastUpdated>20210803163549</lastUpdated>
+    <lastUpdated>20190810002657</lastUpdated>
   </versioning>
 </metadata>
