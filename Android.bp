@@ -17,8 +17,8 @@ java_binary_host {
     main_class: "com.android.manifmerger.Merger",
     static_libs: [
         "manifest-merger-jars",
-        "guava-21.0",
-        "gson-prebuilt-jar",
+        "guava",
+        "gson",
         "kotlin-stdlib",
     ],
 }
