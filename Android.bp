@@ -5,10 +5,10 @@ package {
 java_import_host {
     name: "manifest-merger-jars",
     jars: [
-        "com/android/tools/build/manifest-merger/31.2.0-alpha08/manifest-merger-31.2.0-alpha08.jar",
-        "com/android/tools/common/31.2.0-alpha08/common-31.2.0-alpha08.jar",
-        "com/android/tools/sdk-common/31.2.0-alpha08/sdk-common-31.2.0-alpha08.jar",
-        "com/android/tools/sdklib/31.2.0-alpha08/sdklib-31.2.0-alpha08.jar",
+        "com/android/tools/build/manifest-merger/31.8.0-alpha08/manifest-merger-31.8.0-alpha08.jar",
+        "com/android/tools/common/31.8.0-alpha08/common-31.8.0-alpha08.jar",
+        "com/android/tools/sdk-common/31.8.0-alpha08/sdk-common-31.8.0-alpha08.jar",
+        "com/android/tools/sdklib/31.8.0-alpha08/sdklib-31.8.0-alpha08.jar",
     ],
 }
 
